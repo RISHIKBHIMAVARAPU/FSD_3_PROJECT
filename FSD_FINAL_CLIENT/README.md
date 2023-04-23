@@ -1,4 +1,4 @@
-command to start the app (only a single command to run both frontend and backend)
+command to start the app 
 
 npm start
 
